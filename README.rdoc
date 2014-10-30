@@ -1,3 +1,0 @@
-= sla_spammer
-
-Description goes here
